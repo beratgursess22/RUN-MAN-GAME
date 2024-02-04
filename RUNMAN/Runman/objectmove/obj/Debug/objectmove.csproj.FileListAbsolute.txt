@@ -1,0 +1,21 @@
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\bin\Debug\objectmove.exe.config
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\bin\Debug\objectmove.exe
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\bin\Debug\objectmove.pdb
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.csprojAssemblyReference.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.Form1.resources
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.Properties.Resources.resources
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.csproj.GenerateResource.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.exe
+D:\dwskopyedek\udemy 25 proje .com\Yeni klasör\objectmove\objectmove\obj\Debug\objectmove.pdb
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\bin\Debug\objectmove.exe.config
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\bin\Debug\objectmove.exe
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\bin\Debug\objectmove.pdb
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.csprojAssemblyReference.cache
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.Properties.Resources.resources
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.csproj.GenerateResource.cache
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.exe
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.pdb
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.secondlevel.resources
+D:\dwskopyedek\udemy 25 proje .com\objectmove\objectmove\objectmove\obj\Debug\objectmove.FirstLevel.resources
